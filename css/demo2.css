@@ -11,7 +11,7 @@ body {
 }
 
 .main-img {
-	background: url('https://via.placeholder.com/500x900') top center no-repeat;
+	background: url('../images/profilepic.jpg') top center no-repeat;
 	border: 3px solid #2d3c4e;
 }
 

@@ -196,10 +196,10 @@ section.active {
 }
 
 .main-img {
-	background: url('https://via.placeholder.com/500x900') top center no-repeat;
+	background: url('../images/profilepic.jpg') top center no-repeat;
 	background-size: cover;
 	height: calc(100vh - 48px);
-	opacity: .6;
+	/* opacity: .6; */
 	border: 3px solid #1c1c1d;
     box-shadow: 0 0 10px rgba(0, 0, 0, .1);
 }

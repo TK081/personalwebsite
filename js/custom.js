@@ -19,7 +19,7 @@ $(function () {
 	
 	/*========== Typed  ==========*/
     $(".home .home-intro p span").typed({
-        strings: ["Designer.", "Developer."],
+        strings: ["Software Engineer.", "App Developer.", "Backend Developer."],
         cursorChar: "",
         typeSpeed: 70,
         loop: true,
